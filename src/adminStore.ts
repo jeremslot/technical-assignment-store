@@ -1,5 +1,6 @@
 import { lazy } from "./lazy";
-import { Restrict, Store } from "./store";
+import { Store } from "./store";
+import { Restrict } from "./storePropertyRestrict.decorator";
 import { UserStore } from "./userStore";
 
 
